@@ -1,0 +1,10 @@
+C:\Users\CATOLICA\Desktop\Laboratorioleo\POO\POO\bin\Debug\POO.exe.config
+C:\Users\CATOLICA\Desktop\Laboratorioleo\POO\POO\bin\Debug\POO.exe
+C:\Users\CATOLICA\Desktop\Laboratorioleo\POO\POO\bin\Debug\POO.pdb
+C:\Users\CATOLICA\Desktop\Laboratorioleo\POO\POO\bin\Debug\POO.xml
+C:\Users\CATOLICA\Desktop\Laboratorioleo\POO\POO\obj\Debug\POO.vbprojResolveAssemblyReference.cache
+C:\Users\CATOLICA\Desktop\Laboratorioleo\POO\POO\obj\Debug\POO.Resources.resources
+C:\Users\CATOLICA\Desktop\Laboratorioleo\POO\POO\obj\Debug\POO.vbproj.GenerateResource.Cache
+C:\Users\CATOLICA\Desktop\Laboratorioleo\POO\POO\obj\Debug\POO.exe
+C:\Users\CATOLICA\Desktop\Laboratorioleo\POO\POO\obj\Debug\POO.xml
+C:\Users\CATOLICA\Desktop\Laboratorioleo\POO\POO\obj\Debug\POO.pdb
